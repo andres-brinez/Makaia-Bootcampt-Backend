@@ -3,10 +3,10 @@ package Taller1.Clases;
 public class Carro {
 
     //Atributos
-    private String marca;
-    private String modelo;
-    private String color;
-    private int anio;
+    public String marca;
+    public String modelo;
+    public String color;
+    public int anio;
 
     //Constructor
     public Carro(String marca, String modelo, String color,int anio ) {
@@ -72,6 +72,8 @@ public class Carro {
     public void setAnio(int anio) {
         this.anio = anio;
     }
+
+
 
 
 }

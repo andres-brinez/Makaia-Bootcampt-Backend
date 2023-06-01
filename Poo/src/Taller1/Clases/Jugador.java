@@ -3,7 +3,7 @@ package Taller1.Clases;
 public class Jugador {
 
     // Atributos
-    private String nombre;
+    public String nombre;
 
     // Constructor de la clase
     public Jugador(String nombre) {
