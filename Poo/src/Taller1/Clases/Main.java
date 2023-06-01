@@ -1,5 +1,7 @@
-package Taller1;
+package Taller1.Clases;
 
+
+import Taller1.Clases.Carro;
 
 public class Main {
     public static void main(String[] args) {

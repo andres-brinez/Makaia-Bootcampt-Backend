@@ -1,4 +1,4 @@
-package Taller1;
+package Taller1.Clases;
 
 public class Carro {
 
