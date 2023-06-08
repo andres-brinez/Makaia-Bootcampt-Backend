@@ -1,4 +1,4 @@
-package ComposiciónAgregacióm.Agregacion;
+package ComposiciónAgregacion.Agregacion;
 
 public class Main {
 
