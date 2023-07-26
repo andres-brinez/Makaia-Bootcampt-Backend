@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Makaia.iml" filepath="$PROJECT_DIR$/.idea/Makaia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PilasColas/PilasColas.iml" filepath="$PROJECT_DIR$/PilasColas/PilasColas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Poo/Poo.iml" filepath="$PROJECT_DIR$/Poo/Poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PilasColas/htmlTags/htmlTags.iml" filepath="$PROJECT_DIR$/PilasColas/htmlTags/htmlTags.iml" />
     </modules>
   </component>
 </project>
