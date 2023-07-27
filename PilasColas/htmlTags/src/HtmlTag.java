@@ -38,5 +38,4 @@ public class HtmlTag {
         return null;
     }
 
-
 }
