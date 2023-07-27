@@ -13,18 +13,16 @@ public class Main {
 
         // Reccorer una cola tags tipo HtmlTag y agregarlos a una cola tagString tipo String
         for (HtmlTag elemento : tags) {
-            System.out.println(elemento.getTag());
-            tagString.add(elemento.getTag());
+            System.out.println(elemento.getTag()); // muestra los tags guardados en la cola
+            tagString.add(elemento.getTag()); // agrega los tags a la cola tagString
         }
 
         // Crear una instancia de HtmlValidator
         HtmlValidator htmlValidator = new HtmlValidator();
 
         // Validar las etiquetas HTML
+        // No sirve todavia
         Stack<String> openingTags = htmlValidator.isValidHtml(tagString);
-
-        // Imprimir las etiquetas de apertura restantes
-//        System.out.println(openingTags);
 
 
     }
